@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.clock {
+  background-color: red;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 200px;
+}
+
+.buttons button {
+  font-size: 100px;
+}
+
+button:active {
+  background-color: green;
+}
